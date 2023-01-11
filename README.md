@@ -24,7 +24,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-6E85B2?style=flat-square&logo=typescript&logoColor=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3D2C8D?style=flat-square&logo=javascript&logoColor=)
 ![HTML](https://img.shields.io/badge/HTML-D83A56?style=flat-square-endpoint&logo=html5&labelColor=F3F3F3) 
-![CSS](https://img.shields.io/badge/CSS-6E85B2?style=flat-square-endpoint&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-6E85B2?style=flat-square-endpoint&logo=css3) ___ 
+team work (thanks to my [teammate](https://github.com/AlmondChips))
 
 <h2>HTML/CSS/JavaScript projects 2022</h2>
 
