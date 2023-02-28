@@ -19,6 +19,15 @@
 <h2 align="center">𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤</h2>
 <h2>PROJECTS 2023</h2>
 
+[![travelers-memoirs](https://img.shields.io/badge/TravelersMemoirs-3F3351?style=flat-square-endpoint&logo=netlify&logoColor=3F3351&labelColor=F3F3F3)](https://travelers-memoirs.netlify.app/) ___
+![Webpack](https://img.shields.io/badge/Webpack-blue?style=flat-square-endpoint&logo=webpack&labelColor=F3F3F3&logoColor=blue) 
+![TypeScript](https://img.shields.io/badge/TypeScript-6E85B2?style=flat-square&logo=typescript&logoColor=)
+![JavaScript](https://img.shields.io/badge/JavaScript-3D2C8D?style=flat-square&logo=javascript&logoColor=)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-D83A56?style=flat-square-endpoint&logo=html5&labelColor=F3F3F3) 
+![CSS](https://img.shields.io/badge/CSS-6E85B2?style=flat-square-endpoint&logo=css3) ___ 
+team work (thanks to my teammates [Luferov1](https://github.com/Luferov1) and [DeevDevs](https://github.com/DeevDevs)) ___ [PR](https://github.com/DeevDevs/rs-clone-front/pull/30)
+
 [![OnlineStore](https://img.shields.io/badge/OnlineStore-3F3351?style=flat-square-endpoint&logo=netlify&logoColor=3F3351&labelColor=F3F3F3)](https://rss-school-online-store-ac-km.netlify.app/) ___
 ![Webpack](https://img.shields.io/badge/Webpack-blue?style=flat-square-endpoint&logo=webpack&labelColor=F3F3F3&logoColor=blue) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-6E85B2?style=flat-square&logo=typescript&logoColor=)
